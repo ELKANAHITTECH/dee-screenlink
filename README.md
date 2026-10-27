@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ScreenLink – Windows 11 → Android second screen
 
 ```
@@ -95,3 +96,7 @@ automatically under **Show which PC screen**; pick it and drag windows onto your
 - Screens with UAC prompts / lock screen can't be captured by normal apps; the stream
   pauses and resumes afterwards.
 - Latency depends on Wi-Fi. 5 GHz + the "Fast" preset is the lowest-latency setup.
+=======
+# dee-screenlink
+Dee ScreenLink – Windows 11 → Android second screen
+>>>>>>> 697ea0a807b6f66abbfe05776333d48832e71eeb
